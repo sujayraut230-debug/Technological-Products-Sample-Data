@@ -26,3 +26,10 @@ Brand Visualization: Bar chart and pie chart display the total price (USD) by br
 Country Breakdown: Pie chart shows United States leads with nearly half the total valuation (15K USD, 48.19%), followed by Taiwan, China, South Korea, Japan, and Malaysia.
 
 Device-Model Examples: Includes specific models, such as m15 R5, Dragonfly, S21 Ultra, showing the diversity of products visualized.
+2.Key Highlights
+The most valuable brands (by sum of price in USD) are Apple, Lenovo, HP, Samsung, Asus, and Dell, each with total prices around the 4K USD mark, while Google shows a lower total price compared to other brands.
+
+The pie chart shows brand-wise distribution—each of the major brands (Acer, Apple, Asus, Dell, Google, HP, Lenovo, Microsoft, Samsung, Sony) contributes between about 8% and 13% to the overall price sum, with relatively even spread among top brands.
+
+Country of origin data reveals that products originating from the United States dominate the total price valuation, accounting for nearly 48% (15K USD) of the total value. Other significant contributors include Taiwan (6K USD, 19%), China (4K USD, 13%), South Korea and Japan (each 4K USD, 11-12%), while Malaysia represents a smaller share (2K USD, 5.68%).
+
