@@ -26,23 +26,3 @@ Brand Visualization: Bar chart and pie chart display the total price (USD) by br
 Country Breakdown: Pie chart shows United States leads with nearly half the total valuation (15K USD, 48.19%), followed by Taiwan, China, South Korea, Japan, and Malaysia.
 
 Device-Model Examples: Includes specific models, such as m15 R5, Dragonfly, S21 Ultra, showing the diversity of products visualized.
-Brand      |  Sum of Price (USD)
------------+--------------------
-Apple      |  ~4K               
-Lenovo     |  ~4K               
-HP         |  ~4K               
-Samsung    |  ~4K               
-Asus       |  ~4K               
-Dell       |  ~4K               
-Acer       |  ~3K               
-Microsoft  |  ~3K               
-Sony       |  ~3K               
-Google     |  ~2K               
-Country of Origin  |  Total Price (USD)  |  Share (%)
--------------------+---------------------+-----------
-United States      |  15K                |  48.19%   
-Taiwan             |  6K                 |  19.24%   
-China              |  4K                 |  13.00%   
-South Korea        |  4K                 |  11.83%   
-Japan              |  4K                 |  11.83%   
-Malaysia           |  2K                 |  5.68%    
