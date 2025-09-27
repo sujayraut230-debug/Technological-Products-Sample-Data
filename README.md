@@ -35,3 +35,5 @@ The pie chart shows brand-wise distribution—each of the major brands (Acer, Ap
 
 Country of origin data reveals that products originating from the United States dominate the total price valuation, accounting for nearly 48% (15K USD) of the total value. Other significant contributors include Taiwan (6K USD, 19%), China (4K USD, 13%), South Korea and Japan (each 4K USD, 11-12%), while Malaysia represents a smaller share (2K USD, 5.68%).
 
+3.dome <img width="1379" height="794" alt="Image" src="https://github.com/user-attachments/assets/5afc9f92-8bc1-4793-8b0d-353f2e7f3f44" />
+
