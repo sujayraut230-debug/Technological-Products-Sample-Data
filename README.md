@@ -1,4 +1,5 @@
 Dashboard Overview
+
 The dashboard includes interactive filters for device and model selection, brand highlights, and dynamic visualizations through pie charts and bar graphs.
 
 Users can analyze sums of prices (in USD) across different brands and countries of origin.
@@ -26,6 +27,7 @@ Brand Visualization: Bar chart and pie chart display the total price (USD) by br
 Country Breakdown: Pie chart shows United States leads with nearly half the total valuation (15K USD, 48.19%), followed by Taiwan, China, South Korea, Japan, and Malaysia.
 
 Device-Model Examples: Includes specific models, such as m15 R5, Dragonfly, S21 Ultra, showing the diversity of products visualized.
+
 2.Key Highlights
 The most valuable brands (by sum of price in USD) are Apple, Lenovo, HP, Samsung, Asus, and Dell, each with total prices around the 4K USD mark, while Google shows a lower total price compared to other brands.
 
